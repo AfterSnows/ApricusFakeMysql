@@ -36,11 +36,11 @@ mysql postgresql 反序列化漏洞 RCE
 
 ## 运行测试
 
-![image-20231119143828434](asset\mysqlpacket_1.png)
+![](asset/mysqlpacket_1.png)
 
 利用成功【测试环境 java1.8+mysql-connector-java 8/5.1.27】 
 
-![image-20231120162402833](asset\mysqlpacket_2.png)
+![](asset/mysqlpacket_2.png)
 
 
 
